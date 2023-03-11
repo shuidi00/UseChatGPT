@@ -18,7 +18,7 @@ file_handler.setFormatter(formatter)
 logger.addHandler(file_handler)
 
 
-openai.api_key = "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"
+openai.api_key = "sk-UCozFNIh9x79kkU0IuMVT3BlbkFJiaXa2E6rmbSpszrvgHF"
 last_question = ''
 last_answer = ''
 
