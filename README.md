@@ -1,5 +1,7 @@
 # UseChatGPT
-记录ChatGPT的使用，如e用接口，exe封装，有价值的回答等
+记录ChatGPT的使用，如e用接口，exe封装，有价值的回答等  
+可惜这个sk好像是不能用了，还需要注册新的ChatGPT账号  
+过段时间再说吧
 
 ## 如何将python文件打包成exe程序
 
